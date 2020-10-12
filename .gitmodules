@@ -1,0 +1,9 @@
+[submodule "drive"]
+	path = drive
+	url = https://github.com/lukaprsina/drive
+[submodule "novice"]
+	path = novice
+	url = https://github.com/lukaprsina/novice
+[submodule "cvinger.net"]
+	path = cvinger.net
+	url = https://github.com/lukaprsina/cvinger.net
