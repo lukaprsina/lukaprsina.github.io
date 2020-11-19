@@ -7,3 +7,6 @@
 [submodule "cvinger.net"]
 	path = cvinger.net
 	url = https://github.com/lukaprsina/cvinger.net
+[submodule "avtopralnica"]
+	path = avtopralnica
+	url = https://github.com/lukaprsina/avtopralnica
