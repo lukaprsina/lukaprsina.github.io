@@ -7,6 +7,4 @@
 [submodule "avtopralnica"]
 	path = avtopralnica
 	url = https://github.com/lukaprsina/avtopralnica
-[submodule "drive"]
-	path = drive
-	url = https://github.com/lukaprsina/drive
+
