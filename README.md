@@ -1,5 +1,5 @@
 # lukaprsina.github.io
-[drive](drive)
-[novice](novice)
-[cvinger.net](cvinger.net)
-[avtopralnica](avtopralnica)
+[drive](https://lukaprsina.github.io/drive)
+[novice](https://lukaprsina.github.io/novice)
+[cvinger.net](https://lukaprsina.github.io/cvinger.net)
+[avtopralnica](https://lukaprsina.github.io/avtopralnica)
