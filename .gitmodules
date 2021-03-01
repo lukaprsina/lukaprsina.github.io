@@ -10,3 +10,6 @@
 [submodule "drive"]
 	path = drive
 	url = https://github.com/lukaprsina/drive
+[submodule "cvinger-gatsby"]
+	path = cvinger-gatsby
+	url = https://github.com/lukaprsina/cvinger-gatsby
